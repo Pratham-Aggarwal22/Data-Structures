@@ -1,1 +1,0 @@
-To run the code, run the file CSCI 115- Term project.vcxproj. And delete this readme file
